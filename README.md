@@ -46,9 +46,9 @@ May be updated in the future.
 
 ![Initial view](images/Figure_1.png)
 Initial view
-![Running tasks](images/Figure_1.png)
+![Running tasks](images/Figure_2.png)
 Running tasks
-![Tasks' status](images/Figure_1.png)
+![Tasks' status](images/Figure_3.png)
 Tasks' status
-![Scrollable view](images/Figure_1.png)
+![Scrollable view](images/Figure_4.png)
 Scrollable view
