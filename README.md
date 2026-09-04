@@ -8,10 +8,10 @@ This application is created for simulating virtual task/process management with 
 
 ## Screenshots
 
-![Initial view](imames/Figure_1.png)
-![Running tasks](imames/Figure_1.png)
-![Tasks' status](imames/Figure_1.png)
-![Scrollable view](imames/Figure_1.png)
+![Initial view](images/Figure_1.png)
+![Running tasks](images/Figure_1.png)
+![Tasks' status](images/Figure_1.png)
+![Scrollable view](images/Figure_1.png)
 
 ## Installation
 
