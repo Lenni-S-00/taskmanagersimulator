@@ -6,13 +6,6 @@ A simple task manager simulator
 
 This application is created for simulating virtual task/process management with limited resources and queuing. It is created with the PySide6 Qt framework. The application includes a GUI and QThreads for concurrency. With the application, simulating doing different actions with tasks becomes easy because of clear structure and easy-to-understand functionality.
 
-## Screenshots
-
-![Initial view](images/Figure_1.png)
-![Running tasks](images/Figure_1.png)
-![Tasks' status](images/Figure_1.png)
-![Scrollable view](images/Figure_1.png)
-
 ## Installation
 
 No installation tools yet
@@ -48,3 +41,14 @@ Free to use
 ## Project Status
 
 May be updated in the future.
+
+## Screenshots
+
+![Initial view](images/Figure_1.png)
+Initial view
+![Running tasks](images/Figure_1.png)
+Running tasks
+![Tasks' status](images/Figure_1.png)
+Tasks' status
+![Scrollable view](images/Figure_1.png)
+Scrollable view
